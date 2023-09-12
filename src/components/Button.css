@@ -1,0 +1,34 @@
+.btn {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1.5em;
+  font-weight: 500;
+  font-family: inherit;
+  cursor: pointer;
+  transition: border-color 0.25s;
+  margin: 5px;
+  color: #ffffff;
+}
+
+.red {
+  background: #d03131;
+}
+
+.red:hover {
+  background: #9a1717;
+}
+
+.green {
+  background: #2e772e;
+}
+.green:hover {
+  background: #1d5d1d;
+}
+
+.blue {
+  background: #347081;
+}
+.blue:hover {
+  background: #1f5361;
+}
